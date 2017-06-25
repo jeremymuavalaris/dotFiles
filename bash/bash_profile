@@ -1,4 +1,4 @@
-cription:  This file holds all my BASH configurations and aliases
+#description:  This file holds all my BASH configurations and aliases
 #
 #  Sections:
 #  1.   Environment Configuration
@@ -60,7 +60,7 @@ unset file;
 
 #   Set Default Editor (change 'Nano' to the editor of your choice)
 #   ------------------------------------------------------------
-  export EDITOR=/usr/bin/subl
+#  export EDITOR=/usr/bin/subl
 
 #   Set default blocksize for ls, df, du
 #   from this: http://hints.macworld.com/comment.php?mode=view&cid=24491
